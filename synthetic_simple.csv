@@ -1,0 +1,151 @@
+text,words,tokens,group,complexity,source,length_matched
+18yo female presents with dyspnea.,5,6,synthetic_simple,simple,synthetic,False
+32yo male with nausea.,4,5,synthetic_simple,simple,synthetic,False
+68yo male presents with constipation.,5,6,synthetic_simple,simple,synthetic,False
+Presents with confusion.,3,3,synthetic_simple,simple,synthetic,False
+Patient presents with dizziness.,4,5,synthetic_simple,simple,synthetic,False
+Presents with dizziness.,3,3,synthetic_simple,simple,synthetic,False
+71yo female with anxiety.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with diarrhea.,4,5,synthetic_simple,simple,synthetic,False
+52yo female presents with confusion.,5,6,synthetic_simple,simple,synthetic,False
+85yo female with dizziness.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with abdominal pain.,5,6,synthetic_simple,simple,synthetic,False
+Chief complaint: swelling.,3,3,synthetic_simple,simple,synthetic,False
+Patient presents with constipation.,4,5,synthetic_simple,simple,synthetic,False
+female patient reports abdominal pain.,5,6,synthetic_simple,simple,synthetic,False
+90yo female presents with hearing loss.,6,7,synthetic_simple,simple,synthetic,False
+Presents with dizziness.,3,3,synthetic_simple,simple,synthetic,False
+Patient presents with seizure.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with swelling.,4,5,synthetic_simple,simple,synthetic,False
+female patient reports back pain.,5,6,synthetic_simple,simple,synthetic,False
+52yo male with rash.,4,5,synthetic_simple,simple,synthetic,False
+80yo male presents with back pain.,6,7,synthetic_simple,simple,synthetic,False
+Presents with tremor.,3,3,synthetic_simple,simple,synthetic,False
+58yo female with anxiety.,4,5,synthetic_simple,simple,synthetic,False
+68yo male presents with insomnia.,5,6,synthetic_simple,simple,synthetic,False
+90yo male presents with joint pain.,6,7,synthetic_simple,simple,synthetic,False
+18yo female with weight loss.,5,6,synthetic_simple,simple,synthetic,False
+male patient reports back pain.,5,6,synthetic_simple,simple,synthetic,False
+Presents with numbness.,3,3,synthetic_simple,simple,synthetic,False
+62yo female with tremor.,4,5,synthetic_simple,simple,synthetic,False
+32yo female presents with anxiety.,5,6,synthetic_simple,simple,synthetic,False
+80yo female with nausea.,4,5,synthetic_simple,simple,synthetic,False
+58yo female presents with vision changes.,6,7,synthetic_simple,simple,synthetic,False
+Chief complaint: nausea.,3,3,synthetic_simple,simple,synthetic,False
+Patient presents with diarrhea.,4,5,synthetic_simple,simple,synthetic,False
+32yo female with tremor.,4,5,synthetic_simple,simple,synthetic,False
+Presents with abdominal pain.,4,5,synthetic_simple,simple,synthetic,False
+Presents with anxiety.,3,3,synthetic_simple,simple,synthetic,False
+Presents with swelling.,3,3,synthetic_simple,simple,synthetic,False
+68yo female presents with numbness.,5,6,synthetic_simple,simple,synthetic,False
+25yo female presents with joint pain.,6,7,synthetic_simple,simple,synthetic,False
+male patient reports cough.,4,5,synthetic_simple,simple,synthetic,False
+80yo female presents with numbness.,5,6,synthetic_simple,simple,synthetic,False
+Presents with diarrhea.,3,3,synthetic_simple,simple,synthetic,False
+90yo male presents with fatigue.,5,6,synthetic_simple,simple,synthetic,False
+85yo male with rash.,4,5,synthetic_simple,simple,synthetic,False
+Presents with diarrhea.,3,3,synthetic_simple,simple,synthetic,False
+Presents with joint pain.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with tingling.,4,5,synthetic_simple,simple,synthetic,False
+38yo male with chest pain.,5,6,synthetic_simple,simple,synthetic,False
+Patient presents with constipation.,4,5,synthetic_simple,simple,synthetic,False
+Presents with diarrhea.,3,3,synthetic_simple,simple,synthetic,False
+68yo male presents with palpitations.,5,6,synthetic_simple,simple,synthetic,False
+Chief complaint: syncope.,3,3,synthetic_simple,simple,synthetic,False
+68yo male with tingling.,4,5,synthetic_simple,simple,synthetic,False
+58yo female presents with fatigue.,5,6,synthetic_simple,simple,synthetic,False
+female patient reports numbness.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with nausea.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: headache.,3,3,synthetic_simple,simple,synthetic,False
+Presents with nausea.,3,3,synthetic_simple,simple,synthetic,False
+18yo male presents with tremor.,5,6,synthetic_simple,simple,synthetic,False
+Patient presents with numbness.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with syncope.,4,5,synthetic_simple,simple,synthetic,False
+38yo male presents with palpitations.,5,6,synthetic_simple,simple,synthetic,False
+71yo female presents with tingling.,5,6,synthetic_simple,simple,synthetic,False
+62yo female with vomiting.,4,5,synthetic_simple,simple,synthetic,False
+25yo female with dyspnea.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: confusion.,3,3,synthetic_simple,simple,synthetic,False
+75yo male presents with chest pain.,6,7,synthetic_simple,simple,synthetic,False
+Patient presents with weakness.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with nausea.,4,5,synthetic_simple,simple,synthetic,False
+Presents with anxiety.,3,3,synthetic_simple,simple,synthetic,False
+62yo male with back pain.,5,6,synthetic_simple,simple,synthetic,False
+Patient presents with anxiety.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with tremor.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with tingling.,4,5,synthetic_simple,simple,synthetic,False
+62yo female with confusion.,4,5,synthetic_simple,simple,synthetic,False
+58yo male with swelling.,4,5,synthetic_simple,simple,synthetic,False
+18yo female with weakness.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: tingling.,3,3,synthetic_simple,simple,synthetic,False
+Chief complaint: confusion.,3,3,synthetic_simple,simple,synthetic,False
+45yo male with dizziness.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with vision changes.,5,6,synthetic_simple,simple,synthetic,False
+18yo male presents with joint pain.,6,7,synthetic_simple,simple,synthetic,False
+Presents with palpitations.,3,3,synthetic_simple,simple,synthetic,False
+Patient presents with syncope.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with hearing loss.,5,6,synthetic_simple,simple,synthetic,False
+male patient reports dyspnea.,4,5,synthetic_simple,simple,synthetic,False
+Presents with hearing loss.,4,5,synthetic_simple,simple,synthetic,False
+female patient reports seizure.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: dizziness.,3,3,synthetic_simple,simple,synthetic,False
+58yo male with back pain.,5,6,synthetic_simple,simple,synthetic,False
+45yo female presents with tremor.,5,6,synthetic_simple,simple,synthetic,False
+Chief complaint: tingling.,3,3,synthetic_simple,simple,synthetic,False
+Patient presents with anxiety.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with bleeding.,4,5,synthetic_simple,simple,synthetic,False
+52yo male with tingling.,4,5,synthetic_simple,simple,synthetic,False
+45yo male with rash.,4,5,synthetic_simple,simple,synthetic,False
+female patient reports weight loss.,5,6,synthetic_simple,simple,synthetic,False
+Presents with vomiting.,3,3,synthetic_simple,simple,synthetic,False
+68yo female presents with weight loss.,6,7,synthetic_simple,simple,synthetic,False
+32yo female presents with dyspnea.,5,6,synthetic_simple,simple,synthetic,False
+Patient presents with numbness.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: fatigue.,3,3,synthetic_simple,simple,synthetic,False
+38yo female presents with joint pain.,6,7,synthetic_simple,simple,synthetic,False
+Presents with palpitations.,3,3,synthetic_simple,simple,synthetic,False
+Patient presents with tremor.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with headache.,4,5,synthetic_simple,simple,synthetic,False
+32yo female presents with back pain.,6,7,synthetic_simple,simple,synthetic,False
+Presents with insomnia.,3,3,synthetic_simple,simple,synthetic,False
+Patient presents with abdominal pain.,5,6,synthetic_simple,simple,synthetic,False
+Presents with chest pain.,4,5,synthetic_simple,simple,synthetic,False
+Presents with bleeding.,3,3,synthetic_simple,simple,synthetic,False
+45yo female with chest pain.,5,6,synthetic_simple,simple,synthetic,False
+Patient presents with numbness.,4,5,synthetic_simple,simple,synthetic,False
+75yo male presents with nausea.,5,6,synthetic_simple,simple,synthetic,False
+Chief complaint: diarrhea.,3,3,synthetic_simple,simple,synthetic,False
+Presents with constipation.,3,3,synthetic_simple,simple,synthetic,False
+85yo male with vomiting.,4,5,synthetic_simple,simple,synthetic,False
+female patient reports headache.,4,5,synthetic_simple,simple,synthetic,False
+male patient reports vomiting.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: cough.,3,3,synthetic_simple,simple,synthetic,False
+female patient reports swelling.,4,5,synthetic_simple,simple,synthetic,False
+90yo female with dizziness.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: fatigue.,3,3,synthetic_simple,simple,synthetic,False
+75yo male with headache.,4,5,synthetic_simple,simple,synthetic,False
+male patient reports joint pain.,5,6,synthetic_simple,simple,synthetic,False
+Chief complaint: rash.,3,3,synthetic_simple,simple,synthetic,False
+68yo female presents with weight loss.,6,7,synthetic_simple,simple,synthetic,False
+Patient presents with dyspnea.,4,5,synthetic_simple,simple,synthetic,False
+Presents with back pain.,4,5,synthetic_simple,simple,synthetic,False
+Presents with confusion.,3,3,synthetic_simple,simple,synthetic,False
+male patient reports hearing loss.,5,6,synthetic_simple,simple,synthetic,False
+male patient reports numbness.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: chest pain.,4,5,synthetic_simple,simple,synthetic,False
+Patient presents with syncope.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: confusion.,3,3,synthetic_simple,simple,synthetic,False
+Presents with joint pain.,4,5,synthetic_simple,simple,synthetic,False
+45yo female presents with numbness.,5,6,synthetic_simple,simple,synthetic,False
+52yo female presents with confusion.,5,6,synthetic_simple,simple,synthetic,False
+68yo male presents with fatigue.,5,6,synthetic_simple,simple,synthetic,False
+75yo female with confusion.,4,5,synthetic_simple,simple,synthetic,False
+32yo female presents with constipation.,5,6,synthetic_simple,simple,synthetic,False
+male patient reports bleeding.,4,5,synthetic_simple,simple,synthetic,False
+Chief complaint: fatigue.,3,3,synthetic_simple,simple,synthetic,False
+Presents with hearing loss.,4,5,synthetic_simple,simple,synthetic,False
+male patient reports anxiety.,4,5,synthetic_simple,simple,synthetic,False
+Presents with palpitations.,3,3,synthetic_simple,simple,synthetic,False
+45yo female presents with abdominal pain.,6,7,synthetic_simple,simple,synthetic,False
+Patient presents with weight loss.,5,6,synthetic_simple,simple,synthetic,False
+38yo male presents with fatigue.,5,6,synthetic_simple,simple,synthetic,False

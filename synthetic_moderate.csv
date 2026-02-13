@@ -1,0 +1,151 @@
+text,words,tokens,group,complexity,source,length_matched
+32yo male with hypertension presents with nausea. For several weeks. Worse with exertion. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+58yo male with GERD presents with insomnia. Started this morning. Not relieved by medication. BP 155/92.,16,20,synthetic_moderate,moderate,synthetic,False
+38yo male with hypothyroidism presents with insomnia. Started 2 hours ago. Worse with exertion. BP 155/92.,16,20,synthetic_moderate,moderate,synthetic,False
+38yo male with obesity presents with insomnia. Since last month. Not relieved by medication. BP 145/90.,16,20,synthetic_moderate,moderate,synthetic,False
+68yo male with atrial fibrillation presents with swelling. For 3 days. Not relieved by medication. Temp 98.6F.,17,22,synthetic_moderate,moderate,synthetic,False
+85yo female with hypothyroidism presents with syncope. Since last month. Associated with nausea. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+71yo female with hyperlipidemia presents with tingling. Since last month. Not relieved by medication. Temp 98.6F.,16,20,synthetic_moderate,moderate,synthetic,False
+80yo female with depression presents with back pain. Worsening over 1 week. No recent illness. SpO2 94%.,17,22,synthetic_moderate,moderate,synthetic,False
+75yo male with CAD presents with anxiety. For 3 days. No recent illness. SpO2 96%.,15,19,synthetic_moderate,moderate,synthetic,False
+45yo female with CHF presents with numbness. Since last month. Worse with exertion. Temp 98.6F.,15,19,synthetic_moderate,moderate,synthetic,False
+32yo male with CKD presents with insomnia. Since yesterday. No fever. HR 88.,13,16,synthetic_moderate,moderate,synthetic,False
+58yo female with CHF presents with bleeding. For several weeks. No trauma. BP 145/90.,14,18,synthetic_moderate,moderate,synthetic,False
+38yo female with CKD presents with numbness. Started 2 hours ago. No trauma. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+18yo female with CAD presents with diarrhea. Started this morning. No trauma. SpO2 96%.,14,18,synthetic_moderate,moderate,synthetic,False
+62yo male with CAD presents with confusion. For several weeks. Non-radiating. BP 155/92.,13,16,synthetic_moderate,moderate,synthetic,False
+52yo female with GERD presents with cough. For several weeks. Better with rest. BP 145/90.,15,19,synthetic_moderate,moderate,synthetic,False
+58yo male with diabetes presents with tremor. Started this morning. Better with rest. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+32yo male with CAD presents with weakness. Gradual onset. No fever. SpO2 94%.,13,16,synthetic_moderate,moderate,synthetic,False
+52yo female with obesity presents with numbness. Started this morning. No recent illness. BP 155/92.,15,19,synthetic_moderate,moderate,synthetic,False
+45yo male with depression presents with headache. Since last month. Non-radiating. HR 72.,13,16,synthetic_moderate,moderate,synthetic,False
+38yo male with obesity presents with tremor. Started 2 hours ago. Non-radiating. SpO2 96%.,14,18,synthetic_moderate,moderate,synthetic,False
+38yo male with arthritis presents with fever. Worsening over 1 week. Better with rest. SpO2 94%.,16,20,synthetic_moderate,moderate,synthetic,False
+75yo male with arthritis presents with dizziness. For several weeks. No recent illness. HR 72.,15,19,synthetic_moderate,moderate,synthetic,False
+32yo male with obesity presents with weight loss. Since yesterday. No recent illness. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+71yo male with atrial fibrillation presents with fatigue. Started this morning. No trauma. SpO2 96%.,15,19,synthetic_moderate,moderate,synthetic,False
+25yo male with diabetes presents with insomnia. Sudden onset. Worse with exertion. BP 145/90.,14,18,synthetic_moderate,moderate,synthetic,False
+52yo female with hypothyroidism presents with rash. For 3 days. Associated with nausea. BP 145/90.,15,19,synthetic_moderate,moderate,synthetic,False
+90yo female with hyperlipidemia presents with palpitations. For 3 days. No trauma. HR 72.,14,18,synthetic_moderate,moderate,synthetic,False
+75yo female with GERD presents with fever. Started this morning. Better with rest. BP 130/85.,15,19,synthetic_moderate,moderate,synthetic,False
+71yo female with depression presents with confusion. Sudden onset. Associated with nausea. SpO2 96%.,14,18,synthetic_moderate,moderate,synthetic,False
+90yo male with CAD presents with numbness. For several weeks. No fever. SpO2 94%.,14,18,synthetic_moderate,moderate,synthetic,False
+71yo female with CHF presents with headache. For several weeks. Associated with nausea. Temp 98.6F.,15,19,synthetic_moderate,moderate,synthetic,False
+62yo male with CHF presents with vomiting. Sudden onset. Associated with nausea. BP 130/85.,14,18,synthetic_moderate,moderate,synthetic,False
+71yo female with anxiety presents with headache. Since last month. No fever. HR 88.,14,18,synthetic_moderate,moderate,synthetic,False
+38yo female with depression presents with bleeding. Worsening over 1 week. Not relieved by medication. SpO2 94%.,17,22,synthetic_moderate,moderate,synthetic,False
+62yo male with diabetes presents with fatigue. Worsening over 1 week. No trauma. SpO2 96%.,15,19,synthetic_moderate,moderate,synthetic,False
+45yo female with depression presents with bleeding. Since last month. Associated with nausea. BP 155/92.,15,19,synthetic_moderate,moderate,synthetic,False
+80yo female with CHF presents with insomnia. For several weeks. No recent illness. BP 130/85.,15,19,synthetic_moderate,moderate,synthetic,False
+45yo male with diabetes presents with constipation. Worsening over 1 week. Associated with nausea. HR 88.,16,20,synthetic_moderate,moderate,synthetic,False
+80yo male with COPD presents with dizziness. For several weeks. No recent illness. BP 130/85.,15,19,synthetic_moderate,moderate,synthetic,False
+25yo male with CAD presents with nausea. Gradual onset. Better with rest. BP 130/85.,14,18,synthetic_moderate,moderate,synthetic,False
+18yo male with CAD presents with chest pain. Started 2 hours ago. No recent illness. Temp 98.6F.,17,22,synthetic_moderate,moderate,synthetic,False
+75yo female with diabetes presents with swelling. Started 2 hours ago. No recent illness. SpO2 94%.,16,20,synthetic_moderate,moderate,synthetic,False
+62yo female with CHF presents with cough. Started 2 hours ago. No recent illness. SpO2 94%.,16,20,synthetic_moderate,moderate,synthetic,False
+25yo male with CKD presents with palpitations. For 3 days. Non-radiating. Temp 98.6F.,13,16,synthetic_moderate,moderate,synthetic,False
+32yo female with diabetes presents with nausea. For 3 days. No trauma. SpO2 96%.,14,18,synthetic_moderate,moderate,synthetic,False
+85yo female with depression presents with tingling. For several weeks. No recent illness. BP 155/92.,15,19,synthetic_moderate,moderate,synthetic,False
+45yo male with arthritis presents with constipation. For 3 days. No fever. SpO2 96%.,14,18,synthetic_moderate,moderate,synthetic,False
+45yo male with asthma presents with nausea. Since yesterday. Worse with exertion. Temp 98.6F.,14,18,synthetic_moderate,moderate,synthetic,False
+18yo female with depression presents with insomnia. For several weeks. No recent illness. BP 145/90.,15,19,synthetic_moderate,moderate,synthetic,False
+38yo female with GERD presents with fatigue. For several weeks. Worse with exertion. SpO2 96%.,15,19,synthetic_moderate,moderate,synthetic,False
+45yo male with CKD presents with dyspnea. Since last month. No fever. Temp 98.6F.,14,18,synthetic_moderate,moderate,synthetic,False
+45yo male with diabetes presents with chest pain. Since yesterday. No recent illness. BP 130/85.,15,19,synthetic_moderate,moderate,synthetic,False
+62yo male with depression presents with insomnia. Sudden onset. No trauma. BP 130/85.,13,16,synthetic_moderate,moderate,synthetic,False
+68yo female with depression presents with abdominal pain. Started 2 hours ago. No trauma. HR 72.,16,20,synthetic_moderate,moderate,synthetic,False
+71yo female with hypertension presents with abdominal pain. Worsening over 1 week. Non-radiating. BP 130/85.,15,19,synthetic_moderate,moderate,synthetic,False
+71yo male with obesity presents with diarrhea. Since yesterday. Not relieved by medication. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+45yo male with arthritis presents with confusion. For several weeks. Worse with exertion. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+52yo female with CHF presents with joint pain. For 3 days. Better with rest. HR 72.,16,20,synthetic_moderate,moderate,synthetic,False
+58yo female with CAD presents with seizure. Started this morning. Non-radiating. SpO2 94%.,13,16,synthetic_moderate,moderate,synthetic,False
+25yo female with CAD presents with joint pain. For 3 days. No trauma. BP 145/90.,15,19,synthetic_moderate,moderate,synthetic,False
+75yo female with CKD presents with chest pain. Worsening over 1 week. Associated with nausea. SpO2 94%.,17,22,synthetic_moderate,moderate,synthetic,False
+75yo female with obesity presents with chest pain. Worsening over 1 week. No recent illness. Temp 98.6F.,17,22,synthetic_moderate,moderate,synthetic,False
+45yo female with atrial fibrillation presents with insomnia. For several weeks. Worse with exertion. BP 145/90.,16,20,synthetic_moderate,moderate,synthetic,False
+75yo male with GERD presents with cough. Sudden onset. Non-radiating. BP 155/92.,12,15,synthetic_moderate,moderate,synthetic,False
+25yo male with hyperlipidemia presents with tingling. For 3 days. Not relieved by medication. HR 88.,16,20,synthetic_moderate,moderate,synthetic,False
+75yo male with depression presents with tingling. Sudden onset. No recent illness. BP 155/92.,14,18,synthetic_moderate,moderate,synthetic,False
+90yo female with depression presents with nausea. For several weeks. Better with rest. BP 155/92.,15,19,synthetic_moderate,moderate,synthetic,False
+38yo male with hyperlipidemia presents with abdominal pain. Sudden onset. No trauma. HR 72.,14,18,synthetic_moderate,moderate,synthetic,False
+85yo female with hyperlipidemia presents with headache. Sudden onset. No recent illness. SpO2 94%.,14,18,synthetic_moderate,moderate,synthetic,False
+90yo male with depression presents with bleeding. For several weeks. Associated with nausea. HR 72.,15,19,synthetic_moderate,moderate,synthetic,False
+68yo female with depression presents with tingling. Gradual onset. No fever. SpO2 96%.,13,16,synthetic_moderate,moderate,synthetic,False
+71yo female with COPD presents with swelling. Started this morning. Non-radiating. HR 72.,13,16,synthetic_moderate,moderate,synthetic,False
+80yo female with GERD presents with tingling. Started this morning. No trauma. Temp 98.6F.,14,18,synthetic_moderate,moderate,synthetic,False
+62yo male with asthma presents with syncope. Gradual onset. Worse with exertion. SpO2 94%.,14,18,synthetic_moderate,moderate,synthetic,False
+25yo female with hypertension presents with constipation. Since yesterday. No trauma. Temp 98.6F.,13,16,synthetic_moderate,moderate,synthetic,False
+25yo female with obesity presents with back pain. Gradual onset. No trauma. HR 88.,14,18,synthetic_moderate,moderate,synthetic,False
+90yo female with hyperlipidemia presents with seizure. Since last month. No trauma. HR 72.,14,18,synthetic_moderate,moderate,synthetic,False
+75yo female with hyperlipidemia presents with bleeding. Started 2 hours ago. Worse with exertion. SpO2 96%.,16,20,synthetic_moderate,moderate,synthetic,False
+75yo female with COPD presents with constipation. For 3 days. No trauma. HR 88.,14,18,synthetic_moderate,moderate,synthetic,False
+85yo male with depression presents with cough. Sudden onset. Non-radiating. BP 145/90.,12,15,synthetic_moderate,moderate,synthetic,False
+52yo male with CAD presents with rash. Gradual onset. No trauma. Temp 98.6F.,13,16,synthetic_moderate,moderate,synthetic,False
+38yo female with arthritis presents with seizure. Since yesterday. Better with rest. Temp 98.6F.,14,18,synthetic_moderate,moderate,synthetic,False
+25yo female with arthritis presents with seizure. Worsening over 1 week. Not relieved by medication. Temp 98.6F.,17,22,synthetic_moderate,moderate,synthetic,False
+38yo female with hypothyroidism presents with back pain. For several weeks. No recent illness. BP 145/90.,16,20,synthetic_moderate,moderate,synthetic,False
+85yo female with atrial fibrillation presents with fatigue. Since last month. Better with rest. HR 88.,16,20,synthetic_moderate,moderate,synthetic,False
+62yo female with arthritis presents with fatigue. Started this morning. No recent illness. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+90yo female with COPD presents with weakness. For several weeks. Worse with exertion. SpO2 96%.,15,19,synthetic_moderate,moderate,synthetic,False
+58yo female with arthritis presents with fatigue. Sudden onset. Non-radiating. BP 155/92.,12,15,synthetic_moderate,moderate,synthetic,False
+45yo male with arthritis presents with swelling. Started 2 hours ago. Not relieved by medication. BP 130/85.,17,22,synthetic_moderate,moderate,synthetic,False
+85yo male with arthritis presents with vomiting. Gradual onset. No fever. SpO2 96%.,13,16,synthetic_moderate,moderate,synthetic,False
+71yo female with hypothyroidism presents with diarrhea. Since yesterday. Worse with exertion. BP 145/90.,14,18,synthetic_moderate,moderate,synthetic,False
+45yo female with hypertension presents with vision changes. Gradual onset. Better with rest. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+45yo female with GERD presents with confusion. Since yesterday. No fever. Temp 98.6F.,13,16,synthetic_moderate,moderate,synthetic,False
+85yo female with anxiety presents with syncope. Sudden onset. Better with rest. BP 130/85.,14,18,synthetic_moderate,moderate,synthetic,False
+90yo female with obesity presents with fatigue. Gradual onset. Worse with exertion. SpO2 94%.,14,18,synthetic_moderate,moderate,synthetic,False
+25yo male with obesity presents with nausea. Started this morning. Associated with nausea. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+85yo female with hypertension presents with back pain. Since last month. Worse with exertion. SpO2 94%.,16,20,synthetic_moderate,moderate,synthetic,False
+52yo female with arthritis presents with weakness. Gradual onset. Worse with exertion. SpO2 96%.,14,18,synthetic_moderate,moderate,synthetic,False
+62yo male with arthritis presents with numbness. Since last month. Associated with nausea. SpO2 96%.,15,19,synthetic_moderate,moderate,synthetic,False
+75yo male with hypothyroidism presents with weight loss. For several weeks. No recent illness. BP 155/92.,16,20,synthetic_moderate,moderate,synthetic,False
+25yo male with hypertension presents with chest pain. Sudden onset. Not relieved by medication. HR 88.,16,20,synthetic_moderate,moderate,synthetic,False
+25yo male with atrial fibrillation presents with bleeding. Since yesterday. No trauma. SpO2 94%.,14,18,synthetic_moderate,moderate,synthetic,False
+52yo female with arthritis presents with constipation. Since yesterday. No trauma. HR 88.,13,16,synthetic_moderate,moderate,synthetic,False
+90yo female with arthritis presents with confusion. Sudden onset. Non-radiating. HR 72.,12,15,synthetic_moderate,moderate,synthetic,False
+38yo female with depression presents with nausea. Gradual onset. Worse with exertion. HR 72.,14,18,synthetic_moderate,moderate,synthetic,False
+68yo female with hypertension presents with weakness. Sudden onset. No fever. HR 88.,13,16,synthetic_moderate,moderate,synthetic,False
+90yo female with diabetes presents with seizure. Worsening over 1 week. Non-radiating. BP 145/90.,14,18,synthetic_moderate,moderate,synthetic,False
+85yo female with COPD presents with fever. Worsening over 1 week. Worse with exertion. SpO2 96%.,16,20,synthetic_moderate,moderate,synthetic,False
+71yo male with hyperlipidemia presents with swelling. Worsening over 1 week. Associated with nausea. Temp 98.6F.,16,20,synthetic_moderate,moderate,synthetic,False
+85yo male with CAD presents with swelling. Since yesterday. Better with rest. BP 130/85.,14,18,synthetic_moderate,moderate,synthetic,False
+85yo male with diabetes presents with seizure. Started 2 hours ago. Better with rest. BP 145/90.,16,20,synthetic_moderate,moderate,synthetic,False
+52yo male with arthritis presents with joint pain. Started 2 hours ago. Better with rest. BP 130/85.,17,22,synthetic_moderate,moderate,synthetic,False
+18yo male with GERD presents with confusion. Since last month. Worse with exertion. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+62yo female with obesity presents with rash. Since last month. Worse with exertion. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+68yo male with arthritis presents with chest pain. Since last month. No recent illness. SpO2 94%.,16,20,synthetic_moderate,moderate,synthetic,False
+75yo male with hypertension presents with palpitations. Started this morning. No trauma. HR 88.,14,18,synthetic_moderate,moderate,synthetic,False
+62yo female with diabetes presents with numbness. For 3 days. Associated with nausea. Temp 98.6F.,15,19,synthetic_moderate,moderate,synthetic,False
+25yo male with CAD presents with hearing loss. Since last month. Associated with nausea. BP 155/92.,16,20,synthetic_moderate,moderate,synthetic,False
+71yo female with depression presents with syncope. Started this morning. Worse with exertion. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+90yo male with CKD presents with anxiety. Worsening over 1 week. No trauma. HR 72.,15,19,synthetic_moderate,moderate,synthetic,False
+90yo female with CKD presents with confusion. For 3 days. Associated with nausea. BP 155/92.,15,19,synthetic_moderate,moderate,synthetic,False
+52yo female with CHF presents with fever. For several weeks. Worse with exertion. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+90yo male with diabetes presents with confusion. For 3 days. Associated with nausea. Temp 98.6F.,15,19,synthetic_moderate,moderate,synthetic,False
+68yo male with arthritis presents with bleeding. Since last month. Associated with nausea. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+58yo female with hyperlipidemia presents with seizure. Started this morning. Non-radiating. BP 130/85.,13,16,synthetic_moderate,moderate,synthetic,False
+71yo female with CHF presents with dyspnea. Since last month. No fever. Temp 98.6F.,14,18,synthetic_moderate,moderate,synthetic,False
+75yo female with COPD presents with swelling. For 3 days. Associated with nausea. HR 72.,15,19,synthetic_moderate,moderate,synthetic,False
+25yo female with arthritis presents with nausea. Started this morning. Non-radiating. BP 130/85.,13,16,synthetic_moderate,moderate,synthetic,False
+18yo male with CAD presents with insomnia. Sudden onset. Associated with nausea. HR 72.,14,18,synthetic_moderate,moderate,synthetic,False
+18yo male with hyperlipidemia presents with fever. Started this morning. Worse with exertion. Temp 98.6F.,15,19,synthetic_moderate,moderate,synthetic,False
+80yo male with diabetes presents with constipation. Since last month. No fever. BP 155/92.,14,18,synthetic_moderate,moderate,synthetic,False
+58yo female with CHF presents with cough. Gradual onset. No recent illness. HR 72.,14,18,synthetic_moderate,moderate,synthetic,False
+85yo male with atrial fibrillation presents with chest pain. Since yesterday. Better with rest. BP 145/90.,16,20,synthetic_moderate,moderate,synthetic,False
+75yo male with CAD presents with anxiety. Started this morning. Not relieved by medication. SpO2 94%.,16,20,synthetic_moderate,moderate,synthetic,False
+58yo female with COPD presents with diarrhea. Since last month. Worse with exertion. HR 72.,15,19,synthetic_moderate,moderate,synthetic,False
+58yo male with CAD presents with seizure. For several weeks. No recent illness. BP 145/90.,15,19,synthetic_moderate,moderate,synthetic,False
+38yo female with arthritis presents with chest pain. Started 2 hours ago. No fever. BP 130/85.,16,20,synthetic_moderate,moderate,synthetic,False
+38yo male with obesity presents with back pain. Sudden onset. Associated with nausea. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+18yo female with GERD presents with confusion. Since yesterday. Better with rest. BP 155/92.,14,18,synthetic_moderate,moderate,synthetic,False
+68yo male with anxiety presents with bleeding. Gradual onset. Worse with exertion. BP 155/92.,14,18,synthetic_moderate,moderate,synthetic,False
+90yo male with CKD presents with headache. For several weeks. Worse with exertion. HR 72.,15,19,synthetic_moderate,moderate,synthetic,False
+71yo female with arthritis presents with weakness. Started this morning. No recent illness. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+58yo male with CHF presents with cough. For several weeks. Associated with nausea. HR 88.,15,19,synthetic_moderate,moderate,synthetic,False
+58yo male with COPD presents with confusion. Started this morning. Worse with exertion. BP 155/92.,15,19,synthetic_moderate,moderate,synthetic,False
+90yo female with GERD presents with joint pain. Worsening over 1 week. Associated with nausea. Temp 98.6F.,17,22,synthetic_moderate,moderate,synthetic,False
+25yo male with anxiety presents with syncope. Worsening over 1 week. Associated with nausea. HR 72.,16,20,synthetic_moderate,moderate,synthetic,False
+80yo male with COPD presents with dyspnea. Since yesterday. No recent illness. SpO2 96%.,14,18,synthetic_moderate,moderate,synthetic,False
+32yo male with obesity presents with diarrhea. For 3 days. Better with rest. SpO2 94%.,15,19,synthetic_moderate,moderate,synthetic,False
+62yo female with hypothyroidism presents with tingling. Gradual onset. Associated with nausea. Temp 98.6F.,14,18,synthetic_moderate,moderate,synthetic,False

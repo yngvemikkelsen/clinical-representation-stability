@@ -1,0 +1,151 @@
+text,words,tokens,group,complexity,source,length_matched,specialty
+skin blood biopsy tissue biopsy patient,6,7,mt_samples_simple,simple,real_mt,False, Surgery
+kidney caliceal system bladder intravenous urogram,6,7,mt_samples_simple,simple,real_mt,False, Urology
+dilantin 300 dilantin dilantin dilantin abc,6,7,mt_samples_simple,simple,real_mt,False, Letters
+patient heart heart blood chest wall,6,7,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+skin blood biopsy tissue biopsy patient,6,7,mt_samples_simple,simple,real_mt,False, Dermatology
+neck/soft tissue head wound focal fluid,6,7,mt_samples_simple,simple,real_mt,False, Radiology
+patient patient woman macular eye patient,6,7,mt_samples_simple,simple,real_mt,False, Ophthalmology
+patient midline scrotal tissue wound wound,6,7,mt_samples_simple,simple,real_mt,False, Surgery
+"spine paraspinal intervertebral tissue changes.,3 renal",6,7,mt_samples_simple,simple,real_mt,False, Neurology
+kidney caliceal system bladder intravenous urogram,6,7,mt_samples_simple,simple,real_mt,False, Nephrology
+"spine paraspinal intervertebral tissue changes.,3 renal",6,7,mt_samples_simple,simple,real_mt,False, Orthopedic
+patient midline scrotal tissue wound wound,6,7,mt_samples_simple,simple,real_mt,False, Urology
+dilantin 300 dilantin dilantin dilantin abc,6,7,mt_samples_simple,simple,real_mt,False, Neurology
+kidney caliceal system bladder intravenous urogram,6,7,mt_samples_simple,simple,real_mt,False, Radiology
+patient patient woman macular eye patient,6,7,mt_samples_simple,simple,real_mt,False, Letters
+venous venous posterior tibial vein venous,6,7,mt_samples_simple,simple,real_mt,False, Radiology
+patient heart heart blood chest wall,6,7,mt_samples_simple,simple,real_mt,False, Radiology
+"spine paraspinal intervertebral tissue changes.,3 renal",6,7,mt_samples_simple,simple,real_mt,False, Radiology
+brain intravenous intracranial midline cortical dr intracranial,7,9,mt_samples_simple,simple,real_mt,False, Radiology
+patient patient patient visuospatial patient patient patient,7,9,mt_samples_simple,simple,real_mt,False, Speech - Language
+"taste fibromyalgia.,3 gastritis gastroesophageal disease.,4 patient patient",7,9,mt_samples_simple,simple,real_mt,False, Allergy / Immunology
+cookie patient patient oral oral,5,6,mt_samples_simple,simple,real_mt,False, Gastroenterology
+patient oral patient patient patient,5,6,mt_samples_simple,simple,real_mt,False, Speech - Language
+smooth-walled 13x12x7 surface wall papillary cyst wall,7,9,mt_samples_simple,simple,real_mt,False, Obstetrics / Gynecology
+hdr patient patient patient hdr geiger-muller patient,7,9,mt_samples_simple,simple,real_mt,False, Hematology - Oncology
+patient synvisc vas patient patient sputum chest,7,9,mt_samples_simple,simple,real_mt,False, SOAP / Chart / Progress Notes
+scalp patient 51-year-old anterior head eye muscle,7,9,mt_samples_simple,simple,real_mt,False, Sleep Medicine
+"high-grade atrial ventricular noted.,6 trigemini",5,6,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+21 scalp-to-scalp scalp-to-vertex anterior cerebral,5,6,mt_samples_simple,simple,real_mt,False, Radiology
+"carotid artery ica ica ica edv stenosis.,2",7,9,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+anterior cruciate ligament alcohol patient peripheral tear,7,9,mt_samples_simple,simple,real_mt,False, Consult - History and Phy.
+intrasellar sella turcica craniocaudal mediolateral,5,6,mt_samples_simple,simple,real_mt,False, Radiology
+alpha alpha eye patient patient,5,6,mt_samples_simple,simple,real_mt,False, Neurology
+21 scalp-to-scalp scalp-to-vertex anterior cerebral,5,6,mt_samples_simple,simple,real_mt,False, Neurology
+"carotid artery ica ica ica edv stenosis.,2",7,9,mt_samples_simple,simple,real_mt,False, Radiology
+fetal cardiac fetal placenta posterior placenta uterus,7,9,mt_samples_simple,simple,real_mt,False, Radiology
+ovarian ovarian patient abdomen abdomen ovarian patient,7,9,mt_samples_simple,simple,real_mt,False, Surgery
+intracranial midline intracranial extra-axial fluid cell brain,7,9,mt_samples_simple,simple,real_mt,False, Neurology
+brain cervical patient 12/11/06 neuromuscular patient patient,7,9,mt_samples_simple,simple,real_mt,False, Physical Medicine - Rehab
+brain intravenous intracranial midline cortical dr intracranial,7,9,mt_samples_simple,simple,real_mt,False, Neurology
+cookie patient patient oral oral,5,6,mt_samples_simple,simple,real_mt,False, Radiology
+patient anus colon mucosa rectum,5,6,mt_samples_simple,simple,real_mt,False, Surgery
+ovarian ovarian patient abdomen abdomen ovarian patient,7,9,mt_samples_simple,simple,real_mt,False, Radiology
+smooth-walled 13x12x7 surface wall papillary cyst wall,7,9,mt_samples_simple,simple,real_mt,False, Lab Medicine - Pathology
+intrasellar sella turcica craniocaudal mediolateral,5,6,mt_samples_simple,simple,real_mt,False, Neurology
+hdr patient patient patient hdr geiger-muller patient,7,9,mt_samples_simple,simple,real_mt,False, Radiology
+patient patient patient visuospatial patient patient patient,7,9,mt_samples_simple,simple,real_mt,False, Discharge Summary
+patient anus colon mucosa rectum,5,6,mt_samples_simple,simple,real_mt,False, Gastroenterology
+anterior cruciate ligament alcohol patient peripheral tear,7,9,mt_samples_simple,simple,real_mt,False, Orthopedic
+anterior cruciate ligament alcohol patient peripheral tear,7,9,mt_samples_simple,simple,real_mt,False, IME-QME-Work Comp etc.
+patient patient alpha approximately1 7,5,6,mt_samples_simple,simple,real_mt,False, Sleep Medicine
+patient oral patient patient patient,5,6,mt_samples_simple,simple,real_mt,False, Discharge Summary
+skull skull skull cranial suture,5,6,mt_samples_simple,simple,real_mt,False, Pediatrics - Neonatal
+ovarian ovarian patient abdomen abdomen ovarian patient,7,9,mt_samples_simple,simple,real_mt,False, Obstetrics / Gynecology
+"heart heart heart minute.,640 ventricular",5,6,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+airway oxygen right ventricular pulmonary patient tonsillar,7,9,mt_samples_simple,simple,real_mt,False, Sleep Medicine
+airway oxygen right ventricular pulmonary patient tonsillar,7,9,mt_samples_simple,simple,real_mt,False, General Medicine
+ultrasound-guided patient peritoneal serous fluid patient ultrasound-guided,7,9,mt_samples_simple,simple,real_mt,False, Surgery
+intracranial midline intracranial extra-axial fluid cell brain,7,9,mt_samples_simple,simple,real_mt,False, Radiology
+scalp patient 51-year-old anterior head eye muscle,7,9,mt_samples_simple,simple,real_mt,False, Neurology
+ultrasound-guided patient peritoneal serous fluid patient ultrasound-guided,7,9,mt_samples_simple,simple,real_mt,False, Gastroenterology
+"taste fibromyalgia.,3 gastritis gastroesophageal disease.,4 patient patient",7,9,mt_samples_simple,simple,real_mt,False, SOAP / Chart / Progress Notes
+patient synvisc vas patient patient sputum chest,7,9,mt_samples_simple,simple,real_mt,False, Orthopedic
+"50-pack fvc fev1/fvc lung lung lung volume.,3",7,9,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+skull skull skull cranial suture,5,6,mt_samples_simple,simple,real_mt,False, Radiology
+alpha alpha eye patient patient,5,6,mt_samples_simple,simple,real_mt,False, Sleep Medicine
+brain cervical patient 12/11/06 neuromuscular patient patient,7,9,mt_samples_simple,simple,real_mt,False, Discharge Summary
+patient patient alpha approximately1 7,5,6,mt_samples_simple,simple,real_mt,False, Neurology
+intercostal patient bed intravenous marcaine marcaine patient,7,9,mt_samples_simple,simple,real_mt,False, Pain Management
+man wellbutrin cpt-ii cpt-ii mmpi-2 mmpi-2 mmpi-2,7,9,mt_samples_simple,simple,real_mt,False, Psychiatry / Psychology
+fetal cardiac fetal placenta posterior placenta uterus,7,9,mt_samples_simple,simple,real_mt,False, Obstetrics / Gynecology
+ultrasound-guided patient peritoneal serous fluid patient ultrasound-guided,7,9,mt_samples_simple,simple,real_mt,False, Radiology
+patient ovarian tender abdomen ovarian ovarian cyst ureter,8,10,mt_samples_simple,simple,real_mt,False, Obstetrics / Gynecology
+kidney kidney creatinine 04/04/06 chest blood patient kidney,8,10,mt_samples_simple,simple,real_mt,False, Office Notes
+"bowel c-spine nerve moderate.,2 mild.,3 c8/t1 patient c-spine",8,10,mt_samples_simple,simple,real_mt,False, Physical Medicine - Rehab
+patient patient marcaine depo-medrol lateral wall foramen patient,8,10,mt_samples_simple,simple,real_mt,False, Pain Management
+vehicular patient patient patient patient patient patient paresthesia,8,10,mt_samples_simple,simple,real_mt,False, Consult - History and Phy.
+"bladder tumor.,2 bladder carcinoma",4,5,mt_samples_simple,simple,real_mt,False, Nephrology
+patient patient marcaine depo-medrol lateral wall foramen patient,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+gag tonsils tonsillar bed marcaine throat saline patient,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+patient patient patient patient,4,5,mt_samples_simple,simple,real_mt,False, Consult - History and Phy.
+patient urethra prostatic urethra bladder tumor patient patient,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+recipient kidney kidney kidney/liver,4,5,mt_samples_simple,simple,real_mt,False, Nephrology
+hand hand mouth patient oral mucosa torso patient,8,10,mt_samples_simple,simple,real_mt,False, Consult - History and Phy.
+patient patient patient patient,4,5,mt_samples_simple,simple,real_mt,False, SOAP / Chart / Progress Notes
+"gastroesophageal seen.,3 stomach patient esophagus esophagus duodenum retroflexion",8,10,mt_samples_simple,simple,real_mt,False, Surgery
+patient granulation tissue border medial man ingrown nail,8,10,mt_samples_simple,simple,real_mt,False, SOAP / Chart / Progress Notes
+extremities extremities patient tissue,4,5,mt_samples_simple,simple,real_mt,False, Surgery
+"bladder tumor.,2 bladder carcinoma",4,5,mt_samples_simple,simple,real_mt,False, Urology
+fetal cardiac fetal uterus adnexa amniotic fluid bpd,8,10,mt_samples_simple,simple,real_mt,False, Radiology
+bladder patient bladder patient renal bladder bladder patient,8,10,mt_samples_simple,simple,real_mt,False, SOAP / Chart / Progress Notes
+"shortness heart pulmonary svc/ra nonacute/stable.,3 left central line",8,10,mt_samples_simple,simple,real_mt,False, Radiology
+patient urethra prostatic urethra bladder tumor patient patient,8,10,mt_samples_simple,simple,real_mt,False, Urology
+"gastroesophageal seen.,3 stomach patient esophagus esophagus duodenum retroflexion",8,10,mt_samples_simple,simple,real_mt,False, Gastroenterology
+bladder patient bladder patient renal bladder bladder patient,8,10,mt_samples_simple,simple,real_mt,False, Urology
+patient capsure cardiac md,4,5,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+patient capsure cardiac md,4,5,mt_samples_simple,simple,real_mt,False, Letters
+patient patient sperm sperm head right sperm sperm,8,10,mt_samples_simple,simple,real_mt,False, Letters
+patient 08/16/2004 08/16/2004 patient,4,5,mt_samples_simple,simple,real_mt,False, SOAP / Chart / Progress Notes
+cervical lumbar paraspinal musculature,4,5,mt_samples_simple,simple,real_mt,False, Office Notes
+41-year-old body eye body,4,5,mt_samples_simple,simple,real_mt,False, General Medicine
+patient patient patient patient,4,5,mt_samples_simple,simple,real_mt,False, Diets and Nutritions
+patient 03/11/2008 3rd ventricular patient subdural patient head,8,10,mt_samples_simple,simple,real_mt,False, Neurology
+41-year-old body eye body,4,5,mt_samples_simple,simple,real_mt,False, Consult - History and Phy.
+abc boy propofol patient patient patient lateral patient,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+rhm 11/5/96 calf foot cbc tsh ft4 l-spine,8,10,mt_samples_simple,simple,real_mt,False, Neurology
+cervical lumbar paraspinal musculature,4,5,mt_samples_simple,simple,real_mt,False, Orthopedic
+"fiberoptic bronchoscopy lidocaine 2 phenergan p.o 1 procedure.,2",8,10,mt_samples_simple,simple,real_mt,False, Surgery
+patient granulation tissue border medial man ingrown nail,8,10,mt_samples_simple,simple,real_mt,False, Podiatry
+abc boy propofol patient patient patient lateral patient,8,10,mt_samples_simple,simple,real_mt,False, Orthopedic
+hand hand mouth patient oral mucosa torso patient,8,10,mt_samples_simple,simple,real_mt,False, General Medicine
+"bladder tumor.,2 bladder carcinoma",4,5,mt_samples_simple,simple,real_mt,False, Surgery
+nasal mucosa airway bronchoalveolar lavage saline bronchus bronchoscopy,8,10,mt_samples_simple,simple,real_mt,False, Pediatrics - Neonatal
+blood patient sheath dilator subcutaneous pocket wound blood,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+"bowel c-spine nerve moderate.,2 mild.,3 c8/t1 patient c-spine",8,10,mt_samples_simple,simple,real_mt,False, Radiology
+fetal cardiac fetal uterus adnexa amniotic fluid bpd,8,10,mt_samples_simple,simple,real_mt,False, Obstetrics / Gynecology
+vehicular patient patient patient patient patient patient paresthesia,8,10,mt_samples_simple,simple,real_mt,False, Neurology
+"bowel c-spine nerve moderate.,2 mild.,3 c8/t1 patient c-spine",8,10,mt_samples_simple,simple,real_mt,False, Neurology
+phentermine phentermine blood bruits cardiac extra phentermine phentermine,8,10,mt_samples_simple,simple,real_mt,False, SOAP / Chart / Progress Notes
+vehicular patient patient patient patient patient patient paresthesia,8,10,mt_samples_simple,simple,real_mt,False, Orthopedic
+patient ovarian tender abdomen ovarian ovarian cyst ureter,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+patient 08/16/2004 08/16/2004 patient,4,5,mt_samples_simple,simple,real_mt,False, Psychiatry / Psychology
+hand hand mouth patient oral mucosa torso patient,8,10,mt_samples_simple,simple,real_mt,False, Emergency Room Reports
+ovarian patient patient 1-1/2 blood sugar patient patient,8,10,mt_samples_simple,simple,real_mt,False, Consult - History and Phy.
+"fiberoptic bronchoscopy lidocaine 2 phenergan p.o 1 procedure.,2",8,10,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+patient tumor patient patient,4,5,mt_samples_simple,simple,real_mt,False, Radiology
+kidney kidney creatinine 04/04/06 chest blood patient kidney,8,10,mt_samples_simple,simple,real_mt,False, Nephrology
+rhm 11/5/96 calf foot cbc tsh ft4 l-spine,8,10,mt_samples_simple,simple,real_mt,False, Orthopedic
+patient patient auditory patient patient patient patient patient,8,10,mt_samples_simple,simple,real_mt,False, Speech - Language
+chemoradiotherapy patients patient cancer tumor cell patient patient,8,10,mt_samples_simple,simple,real_mt,False, Hematology - Oncology
+recipient kidney kidney kidney/liver,4,5,mt_samples_simple,simple,real_mt,False, Psychiatry / Psychology
+patient patient auditory patient patient patient patient patient,8,10,mt_samples_simple,simple,real_mt,False, Discharge Summary
+patient tumor patient patient,4,5,mt_samples_simple,simple,real_mt,False, Hematology - Oncology
+rhm 11/5/96 calf foot cbc tsh ft4 l-spine,8,10,mt_samples_simple,simple,real_mt,False, Radiology
+nasal mucosa airway bronchoalveolar lavage saline bronchus bronchoscopy,8,10,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+patient patient submandibular purulence abscess peroxide saline patient,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+patient 03/11/2008 3rd ventricular patient subdural patient head,8,10,mt_samples_simple,simple,real_mt,False, Radiology
+patient granulation tissue border medial man ingrown nail,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+biopsy patient skin biopsy patient patient biopsy patient,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+blood patient sheath dilator subcutaneous pocket wound blood,8,10,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+"shortness heart pulmonary svc/ra nonacute/stable.,3 left central line",8,10,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
+"caudal epidural steroid contrast.,2 patient patient intravenous skin",8,10,mt_samples_simple,simple,real_mt,False, Pain Management
+patient patient sperm sperm head right sperm sperm,8,10,mt_samples_simple,simple,real_mt,False, Urology
+venous thrombus edema edema clot clot body edema,8,10,mt_samples_simple,simple,real_mt,False, Radiology
+gag tonsils tonsillar bed marcaine throat saline patient,8,10,mt_samples_simple,simple,real_mt,False, ENT - Otolaryngology
+patient patient marcaine depo-medrol lateral wall foramen patient,8,10,mt_samples_simple,simple,real_mt,False, Radiology
+biopsy patient skin biopsy patient patient biopsy patient,8,10,mt_samples_simple,simple,real_mt,False, Dermatology
+patient axilla axilla wound saline skin needle patient,8,10,mt_samples_simple,simple,real_mt,False, Surgery
+chemoradiotherapy patients patient cancer tumor cell patient patient,8,10,mt_samples_simple,simple,real_mt,False, Radiology
+"patient blood 153/88 heart minute.,2 heart blood tilt.,3",8,10,mt_samples_simple,simple,real_mt,False, Cardiovascular / Pulmonary
