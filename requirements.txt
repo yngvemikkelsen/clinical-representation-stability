@@ -1,0 +1,19 @@
+# Requirements for Clinical LLM Representation Stability Analysis
+
+# Core dependencies
+torch>=2.1.0
+transformers>=4.36.0
+huggingface_hub>=0.20.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Analysis
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress bars
+tqdm>=4.65.0
